@@ -7,5 +7,9 @@ public class Class02 {
 
         System.out.println("sibel");
 
+
+        System.out.println("mirhan2");
+
+
     }
 }
