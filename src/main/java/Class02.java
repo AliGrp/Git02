@@ -3,12 +3,20 @@ public class Class02 {
         System.out.println("calisma");
 
 
+        System.out.println("burcu deneme");
+
+
+        System.out.println("sibel");
+
+
+
         System.out.println("Burak");
 
         System.out.println("sibel");
 
 
         System.out.println("mirhan2");
+
 
 
     }
