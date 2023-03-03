@@ -4,6 +4,7 @@ public class Class02 {
 
 
         System.out.println("Burak");
+        // BurakDeneme
 
         System.out.println("sibel");
 
